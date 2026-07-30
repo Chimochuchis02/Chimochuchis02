@@ -15,21 +15,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> !!!Hello there¡¡¡¡ </h1> 
+<img>  </img> 
 
 <h5> And welcome to my profile, i'm an IT student currently working on my projects using PHP, laravel breeze, HTML, CSS, JS</h5>
 
-<h5>Right now, i'm learning Vue as my framework to use, also i'm learning to use WordPress so I can make quickly the prototypes for my clients and for me to have a quick reference for those web pages, don't forget to follow me in here also, because i'm gonna be so much active from now on.</h5>
+<h2>    
+    The techs I use right now:
+    
+ </h2>
 
-<h5>    
-    The technologies I use right now:
+<h5> 
     <p style="align:left;">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
         <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     </p>
+</h5>
+
+ <h2>
+    The techs i'm studying right now:
+ </h2>
+
+<h5>     
+        <p style="align:left;">
+            <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+            <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        </p>
+</h5>
 
 
+
+ <h2>
+    Ways you can contact me:
+ </h2>
+
+ <h5>
+ 
+ 
  </h5>
