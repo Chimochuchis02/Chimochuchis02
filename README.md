@@ -1,33 +1,5 @@
 ## !!!Hello There¡¡¡
 
-<style>
-#first{
-    color: rgb(255, 0, 255);
-    transition: 1s;
-}
-
-#second{
-    color: rgba(0, 255, 0, 1);
-    transition: 1s;
-}
-
-#third{
-    color: rgba(0, 255, 255, 1);
-    transition: 1s;
-}
-
-#fourth{
-    color: rgba(0, 225, 155,1);
-    transition: 1s;
-}
-
-.hover:hover{
-    color: rgba(255, 0, 0,1);
-    translate: translateY(10px);
-}
-
-</style>
-
 <h3> 
 FullStack Developer always wanting to improve and be better, and maybe in the way, just here to do <code> SOMETHING GREATER </code>, meanwhile I work as a fullstack and in the nights, I do my greater passion: Being a Game Designer and game programmer, working harder, so everybody, can one day, <code id="first" class="hover"> Play <code id="second" class="hover">my</code> <code id="third" class="hover"> own </code> <code id="fourth" class="hover"> Games </code> </code> </h3>
 
