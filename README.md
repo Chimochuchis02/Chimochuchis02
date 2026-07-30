@@ -1,27 +1,38 @@
-## !!!Hello There¡¡¡ 👋
+## !!!Hello There¡¡¡
 
-<!--
-**Chimochuchis02/Chimochuchis02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+#first{
+    color: rgb(255, 0, 255);
+    transition: 1s;
+}
 
-Here are some ideas to get you started:
+#second{
+    color: rgba(0, 255, 0, 1);
+    transition: 1s;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#third{
+    color: rgba(0, 255, 255, 1);
+    transition: 1s;
+}
 
-<img src="https://unsplash.com/es/fotos/do-something-great-neon-sign-oqStl2L5oxI"></img> 
+#fourth{
+    color: rgba(0, 225, 155,1);
+    transition: 1s;
+}
 
-<h5> And welcome to my profile, i'm an IT student currently working on my projects using PHP, laravel breeze, HTML, CSS, JS</h5>
+.hover:hover{
+    color: rgba(255, 0, 0,1);
+    translate: translateY(10px);
+}
+
+</style>
+
+<h3> 
+FullStack Developer always wanting to improve and be better, and maybe in the way, just here to do <code> SOMETHING GREATER </code>, meanwhile I work as a fullstack and in the nights, I do my greater passion: Being a Game Designer and game programmer, working harder, so everybody, can one day, <code id="first" class="hover"> Play <code id="second" class="hover">my</code> <code id="third" class="hover"> own </code> <code id="fourth" class="hover"> Games </code> </code> </h3>
 
 <h2>    
     The techs I use right now:
-    
  </h2>
 
 <h5> 
@@ -57,8 +68,7 @@ Here are some ideas to get you started:
 
  <h5>
     <p style="align:left;"> 
-    <h5> </h5>    
-    <h5> </h5>
-    <h5> </h5>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" />    
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="chimochuchis02" />
     </p>
  </h5>
