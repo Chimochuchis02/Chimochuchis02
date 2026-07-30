@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img>  </img> 
+<img src="https://unsplash.com/es/fotos/do-something-great-neon-sign-oqStl2L5oxI"></img> 
 
 <h5> And welcome to my profile, i'm an IT student currently working on my projects using PHP, laravel breeze, HTML, CSS, JS</h5>
 
@@ -51,18 +51,14 @@ Here are some ideas to get you started:
     My stats:
 </h2>
 
-<h5>
- <p style="align:left;"> 
-    <img src="https://github-readme-stats.azurewebsites.net/api?username=Chimochuchis02&show_icons=true&theme=dark&hide_border=true" />
-    <img src="" />
- </p>
-</h5>
-
  <h2>
     Ways you can contact me:
  </h2>
 
  <h5>
- 
- 
+    <p style="align:left;"> 
+    <h5> </h5>    
+    <h5> </h5>
+    <h5> </h5>
+    </p>
  </h5>
