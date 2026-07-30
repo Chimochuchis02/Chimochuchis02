@@ -47,7 +47,12 @@ Here are some ideas to get you started:
         </p>
 </h5>
 
+<h2>
+    My stats:
+</h2>
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Chimochuchis02&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimochuchis02&layout=compact&theme=dark)
 
  <h2>
     Ways you can contact me:
