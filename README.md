@@ -1,3 +1,5 @@
+<img src="https://www.gitskins.com/api/section/hero?username=Chimochuchis02&theme=zen&style=aura" alt="Animated Hero" />
+
 ## !!!Hello There¡¡¡
 
 <h3> 
