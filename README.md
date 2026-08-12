@@ -1,48 +1,9 @@
-<img src="https://www.gitskins.com/api/section/hero?username=Chimochuchis02&theme=zen&style=aura" alt="Animated Hero" />
-
-## !!!Hello There¡¡¡
-
-<h3> 
-FullStack Developer always wanting to improve and be better, and maybe in the way, just here to do <code> SOMETHING GREATER </code>, meanwhile I work as a fullstack and in the nights, I do my greater passion: Being a Game Designer and game programmer, working harder, so everybody, can one day, <code id="first" class="hover"> Play <code id="second" class="hover">my</code> <code id="third" class="hover"> own </code> <code id="fourth" class="hover"> Games </code> </code> </h3>
-
-<h2>    
-    The techs I use right now:
- </h2>
-
-<h5> 
-    <p style="align:left;">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    </p>
-</h5>
-
- <h2>
-    The techs i'm studying right now:
- </h2>
-
-<h5>     
-        <p style="align:left;">
-            <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-            <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-        </p>
-</h5>
-
-<h2>
-    My stats:
-</h2>
-
- <h2>
-    Ways you can contact me:
- </h2>
-
- <h5>
-    <p style="align:left;"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" />    
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="chimochuchis02" />
-    </p>
- </h5>
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=chimochuchis02&theme=aurora&label=chimochuchis02&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=chimochuchis02&theme=aurora&label=chimochuchis02" width="100%" alt="chimochuchis02" /></picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=chimochuchis02&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/hero?username=chimochuchis02&theme=aurora&mode=dark" width="100%" alt="chimochuchis02 — profile" /> </picture> </p> <p align="center"><a href="https://github.com/chimochuchis02">GitHub</a></p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=chimochuchis02&theme=aurora&items=Blade%3A%3A13+public+repositories%7CEasy-Peasy-English-web%3A%3AWeb+Page%2C+for+the+business%3A+Easy+Peasy+English%7CImpact%3A%3A0+stars+%C2%B7+79+active+days&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=chimochuchis02&theme=aurora&items=Blade%3A%3A13+public+repositories%7CEasy-Peasy-English-web%3A%3AWeb+Page%2C+for+the+business%3A+Easy+Peasy+English%7CImpact%3A%3A0+stars+%C2%B7+79+active+days" width="100%" alt="Highlights" /></picture> </p>
+The year, so far
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=chimochuchis02&theme=aurora&style=jet&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=chimochuchis02&theme=aurora&style=jet&mode=dark" width="100%" alt="271 contributions in the last year" /> </picture> </p>
+Signal
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=chimochuchis02&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=chimochuchis02&theme=aurora" width="100%" alt="0 stars across 13 repositories" /></picture> </p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=chimochuchis02&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=chimochuchis02&theme=aurora" width="100%" alt="Language stack" /></picture> </p>
+Work
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=chimochuchis02&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=chimochuchis02&theme=aurora" width="100%" alt="Pinned projects" /></picture> </p>
+Profile scan
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=chimochuchis02&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=chimochuchis02&theme=aurora" width="100%" alt="ASCII profile scan" /></picture> </p> <hr /> <p align="center"> <sub>chimochuchis02 · every panel is a single <code>&lt;img&gt;</code> of live GitHub data · built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub> </p>
